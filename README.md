@@ -13,4 +13,4 @@ Esse script não salva seus dados de login, nem manipula seu usuário ou senha. 
 
 1. Salve seu usuário e senha no navegador, de maneira que ele preencha automaticamente.
 2. Você vai precisar de um gerenciador de userscript. Caso não tenha um, recomendo [Violentmonkey](https://violentmonkey.github.io/).
-3. [Adicione o userscript clicando aqui](https://github.com/rodorgas/desempaca/blob/master/desempaca.user.js).
+3. [Adicione o userscript clicando aqui](https://github.com/rodorgas/desempaca/raw/master/desempaca.user.js).
